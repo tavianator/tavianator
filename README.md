@@ -11,6 +11,7 @@ I used to work at [Microsoft Research Montreal], and before that at a startup ca
 My personal website/blog is [tavianator.com](https://tavianator.com).
 I'm probably @tavianator on your favourite social network:
 
+- [🐘 Mastodon](https://mastodon.social/@tavianator)
 - [🐦 Twitter](https://twitter.com/tavianator)
 - [👽 Reddit](https://www.reddit.com/user/tavianator)
 - [📷 Instagram](https://www.instagram.com/tavianator)
